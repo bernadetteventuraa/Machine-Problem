@@ -1,0 +1,6 @@
+panda
+notebook
+keychain
+headset
+laptop
+cellphone
